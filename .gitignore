@@ -1,3 +1,7 @@
+# 개인적으로 추가하는 Unity ignore
+Library/
+Library/*
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
